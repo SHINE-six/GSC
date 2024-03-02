@@ -6,7 +6,9 @@ This is a submission github repositories to Google Solution Challenges
 
 ### SDG tackle
 SDG 9: Industry, Innovation, & Infrastructure
+<br>
 SDG 11: Sustainable Cities
+<br>
 SDG 13: Climate Action
 
 ### Google Technologies Used
@@ -37,7 +39,7 @@ So after the user has entered the location of the building site, the flat workin
 The Urban Planner will then be able to import either their prepare 3D model of the cities built from other 3D modelling software, and when import to the scene, it can simulate to them whether the cities scene is suitable for the location or not. As a not suitable cities 3D model and location, will cause much overlap of the landscape to the cities scene model.
 
 Alternatively, they can build the cities scene one by one
-![Building Digital Twin Model](assetForReadME//3Third.png)
+![Building Digital Twin Model](assetForReadME//3Three.png)
 
 As seen in the picture above, Spongey provide the urban planner with option of placing placeholder shape that may represent the building overall dimension, this help in quick building of the cities scene into a digital twin. Beside just box for building, there can traingular prism, circle decoration or cities, flat rectangular road, and many more.
 
