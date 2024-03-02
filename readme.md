@@ -118,3 +118,16 @@ TensorFlow, a cornerstone of the system's analytical framework, powers sophistic
 The entire system is hosted on a robust cloud infrastructure, with services like Compute Engine providing the necessary computational power for processing large datasets and executing complex simulations. This cloud-based approach not only ensures scalability and reliability but also obviates the need for extensive local hardware, making the system accessible and efficient.
 
 In essence, our digital twin CAD system is a harmonious integration of cutting-edge technologies and programming languages, designed to deliver an immersive user experience, precise flood simulations, and invaluable insights for effective flood management and urban planning. It stands as a testament to the potential of modern technology to address some of the most pressing challenges in urban development and environmental resilience.
+
+## Acknolwedgement & Team Members
+- [Desmond Foo Yau Yit](@SHINE-six) - Team Leader
+- [Teh Chen Ming](@chenming7777)
+- [Puah Yi Kai](@yikai03)
+- [Chooi Yao Feng](@YFShADoW)
+
+Special thanks to our mentor, Chong Mien May, for her guidance and support throughout the project.
+
+### 3D model used in the project
+- [Low Poly City](src//models//city//license.txt)
+- [Car](src//models//car//license.txt)
+- [Metro Station](src//models//metro_station//license.txt)
